@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KS3VdfgXFAwy-gDapa_-seJM2K8ExLSFgGMl70u5kirG81BBkB3A7k2gUVtfXeiak8vMejuTrKNVXNdN9aySCWUBTmJetwxG7evxAs3AhWh5vXg2SFWEkX0FD98Hb0t7oQXDeGkXVcaoQjbTrcTyVkl8-9YQv9n78k9wdMM8102kUCtgg=s1024" alt="Banner do Projeto de Programação com Luzes RGB">
+  <img src="./web/src/assets/Gemini_Generated_Image_usjnwfusjnwfusjn.png" alt="Banner do Projeto de Programação com Luzes RGB">
   <br />
   <h1 align="center">Awesome Theme Project</h1>
   <p align="center">
