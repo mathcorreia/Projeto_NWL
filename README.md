@@ -1,5 +1,37 @@
 # NLW Agents - Q&A com IA 🤖
 
+
+<div align="center">
+  <img src="./web/src/assets/Gemini_Generated_Image_usjnwfusjnwfusjn.png" alt="Banner do Projeto de Programação com Luzes RGB">
+  <br />
+  <h1 align="center">Awesome Theme Project</h1>
+  <p align="center">
+    Um tema moderno, responsivo e personalizável construído com Tailwind CSS e cores OKLCH.
+  </p>
+  <br />
+</div>
+<div align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-dark.svg" width="200" alt="Logo do Tailwind CSS">
+  <br />
+  <h1 align="center">Awesome Theme Project</h1>
+  <p align="center">
+    Um tema moderno, responsivo e personalizável construído com Tailwind CSS e cores OKLCH.
+  </p>
+  <br />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=white" alt="PostCSS">
+  <img src="https://img.shields.io/badge/Theme-Light%20%26%20Dark-blueviolet" alt="Light & Dark Theme">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License MIT">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
+</div>
+
+
+
 ![Badge de Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Badge de Licença](https://img.shields.io/badge/license-MIT-green)
 
