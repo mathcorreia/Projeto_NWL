@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="frontend/web/src/assets/Gemini_Generated_Image_usjnwfusjnwfusjn.png" alt="Banner do Projeto de Programação com Luzes RGB">
+  <img src="./f rontend/web/src/assets/Gemini_Generated_Image_usjnwfusjnwfusjn.png" alt="Banner do Projeto de Programação com Luzes RGB">
   <br />
   <h1 align="center">Awesome Theme Project</h1>
   <p align="center">
